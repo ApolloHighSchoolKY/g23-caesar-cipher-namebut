@@ -9,8 +9,8 @@
 
 public class CaesarCipher {
 
-	private char[][] alphabet;
-	private char[][] shifted;
+	private char[] alphabet;
+	private char[] shifted;
 	private int shift;
 
     public CaesarCipher() {
@@ -32,6 +32,7 @@ public class CaesarCipher {
     public void shifter(int num){
 
     }
+
 
 
 }
